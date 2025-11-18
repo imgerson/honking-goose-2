@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/imgerson/honking-goose#readme",
   "devDependencies": {
-    "@wordpress/scripts": "^12.5.0"
+    "@wordpress/scripts": "^31.0.0"
   },
   "dependencies": {
     "@wordpress/env": "^3.0.2",
