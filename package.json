@@ -17,10 +17,10 @@
   },
   "homepage": "https://github.com/imgerson/honking-goose#readme",
   "devDependencies": {
-    "@wordpress/scripts": "^12.5.0"
+    "@wordpress/scripts": "^12.6.1"
   },
   "dependencies": {
-    "@wordpress/env": "^3.0.2",
+    "@wordpress/env": "^10.39.0",
     "cypress": "^6.4.0"
   }
 }
